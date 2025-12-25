@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment
+.env
+
+# Data & vectors
+data/
+vectorstore/
+*.db
+*.sqlite
+
+# PDFs
+*.pdf
